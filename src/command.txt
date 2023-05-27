@@ -1,0 +1,4 @@
+npm init -y
+npm install pracel -g
+parcel ./src/index.html
+npm i dat.gui
